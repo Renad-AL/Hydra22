@@ -4,5 +4,5 @@ in using the app the user just needs to know their body weight for now
 
 
 
-https://github.com/user-attachments/assets/0c1fe61c-318f-4b98-a835-863514c6e956
+https://github.com/user-attachments/assets/4a721d7b-350a-4663-8d74-e8c9ac99c53e
 
